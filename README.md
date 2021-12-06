@@ -10,7 +10,8 @@ I create interactive as well as accessible user experiences 👩🏽‍💻
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: My love for ramen stems from my love for Naruto Uzumaki 
-http://mangageneralzone.tumblr.com/post/56336953926/eating-contest
+
+<div style="width:100%;height:0;padding-bottom:108%;position:relative;"><iframe src="https://giphy.com/embed/sr9VDW732xLby" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/naruto-eating-sr9VDW732xLby">via GIPHY</a></p>
 
 
 <!--
