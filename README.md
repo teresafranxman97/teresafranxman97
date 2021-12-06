@@ -9,10 +9,6 @@ I create interactive as well as accessible user experiences 👩🏽‍💻
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: My love for ramen stems from my love for Naruto Uzumaki 
-
-[Naruto-ramen-gif](https://github.com/teresafranxman97/teresafranxman97/blob/main/naruto-ramen%20(1).gif)
-
 <!--
 **teresafranxman97/teresafranxman97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
