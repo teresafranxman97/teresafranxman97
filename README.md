@@ -11,7 +11,7 @@ I create interactive as well as accessible user experiences 👩🏽‍💻
 
 ⚡ Fun fact: My love for ramen stems from my love for Naruto Uzumaki 
 
-<div style="width:100%;height:0;padding-bottom:108%;position:relative;"><iframe src="https://giphy.com/embed/sr9VDW732xLby" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/naruto-eating-sr9VDW732xLby">via GIPHY</a></p>
+<div class="tenor-gif-embed" data-postid="17993554" data-share-method="host" data-aspect-ratio="1.15942" data-width="100%"><a href="https://tenor.com/view/naruto-ramen-eat-gif-17993554">Naruto Ramen GIF</a>from <a href="https://tenor.com/search/naruto-gifs">Naruto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <!--
