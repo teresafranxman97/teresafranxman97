@@ -11,7 +11,7 @@ I create interactive as well as accessible user experiences 👩🏽‍💻
 
 ⚡ Fun fact: My love for ramen stems from my love for Naruto Uzumaki 
 
-[Naruto-ramen-gif](naruto-ramen (1).gif)
+[Naruto-ramen-gif](https://raw.githubusercontent.com/teresafranxman97/teresafranxman97/main/naruto-ramen%20(1).gif)
 
 <!--
 **teresafranxman97/teresafranxman97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
