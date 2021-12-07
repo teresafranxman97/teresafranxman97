@@ -3,9 +3,9 @@ I create interactive as well as accessible user experiences 👩🏽‍💻
 
 🔭 I’m currently working on building features for Underdog Devs as one of the Lead UX Engineers 
 
-🌱 I’m currently learning how to build better user interfaces and experiences
+🌱 At the moment I’m learning how to build better user interfaces and experiences
 
-👯 I’m looking to collaborate on educational, social justice, or any projects that will bring about doing social good 
+👯 I’m looking to collaborate on educational, social justice, or any projects that will require creative thinking and allow me free range in design development  
 
 😄 Pronouns: She/Her
 
