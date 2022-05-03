@@ -1,7 +1,6 @@
-### Hi there 👋
-I create interactive as well as accessible user experiences 👩🏽‍💻
+### Hi there, I'm Teresa 👋
 
-🔭 I’m currently working on building features for Underdog Devs as one of the Lead UX Engineers 
+A passionate problem solver dedicated to finding solutions through digital experiences. 👩🏽‍💻
 
 🌱 At the moment I’m learning how to build better user interfaces and experiences
 
