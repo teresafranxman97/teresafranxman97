@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/emGDBYPZ2mVrsS1biZ" width="480" height="480" />
+</div>
+
+
 ### Hi there, I'm Teresa 👋
 
 A passionate problem solver dedicated to finding solutions through digital experiences. 👩🏽‍💻
