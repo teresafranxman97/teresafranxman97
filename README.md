@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/emGDBYPZ2mVrsS1biZ" width="480" height="480" />
+  <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" alt="hello world gif" width="100%" />
 </div>
+
 
 
 ### Hi there, I'm Teresa 👋
