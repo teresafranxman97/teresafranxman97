@@ -4,15 +4,15 @@
 
 ### Hi there, I'm Teresa 👋
 
-##About Me:
+## About Me:
 
 I am a Full Stack Developer dedicated to finding solutions through digital experiences. 🏽‍💻
 
-    • 🔭 Im currently working on building sophisticated frontend web applications using React.JS
-    
-    • 🌱 Exploring the world of UI/UX Design and User Research
-    
-    • ⚡ In my free time I enjoy the outdoors, spending time with family and growing my skills as a designer 
+  • 🔭 Im currently working on building sophisticated frontend web applications using React.JS
+
+  • 🌱 Exploring the world of UI/UX Design and User Research
+
+  • ⚡ In my free time I enjoy the outdoors, spending time with family and growing my skills as a designer 
     
     
 ## Languages and Tools:
