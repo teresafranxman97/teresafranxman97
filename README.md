@@ -8,11 +8,11 @@
 
 I am a Front-End Developer dedicated to finding solutions through digital experiences. 🏽‍💻
 
-  • 🔭 Im currently working on building sophisticated front-end web applications using React.JS
+  • 🔭 Im currently working on building sophisticated front-end web applications using JavaScript
 
   • 🌱 Exploring the world of UI/UX Design and User Research
 
-  • ⚡ In my free time I enjoy hiking, 
+  • ⚡ In my free time I enjoy hiking, exercising and continuing to develop my design skills. 
     
     
 ## Languages and Tools:
